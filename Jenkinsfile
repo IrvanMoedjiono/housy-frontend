@@ -1,5 +1,5 @@
 def secret = 'server'
-def server = 'irvan@10.224.143.15'
+def server = 'irvan@10.224.143.55'
 def dir = 'housy-frontend'
 def branch = 'production'
 
